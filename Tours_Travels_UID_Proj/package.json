@@ -1,0 +1,17 @@
+{
+  "name": "tours-and-travels-app",
+  "version": "1.0.0",
+  "description": "Desktop app for Tours and Travels website",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-packager": "^17.1.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
